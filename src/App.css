@@ -1,3 +1,9 @@
+.doneToDo {
+  color: green;
+  text-decoration: line-through;
+  font-weight: 700;
+}
+
 .App {
   text-align: center;
 }
